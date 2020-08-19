@@ -15,10 +15,10 @@ yourUserName All NOPASSWD: ALL
 You won't need your password for any command anymore, this makes your device very insecure but you can change it so it won't ask for passwords for commands used in this project.
 
 
-To install all the requirements run:
+To setup connectToWifi-ElectronJs run:
 
 ```shell script
-sh installRequirements.sh
+sh setup.sh
 ```
 
 Restart your device after to make sure all changes are applied.
